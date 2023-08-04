@@ -2,7 +2,7 @@
 title: Scaling Ethereum
 description: Rollups batch transactions together off-chain, reducing costs for the user. However, the way rollups currently use data is currently too expensive, limiting how cheap transactions can be. Proto-Danksharding fixes this.
 lang: en
-image: ../../../assets/eth.png
+image: ../../../assets/roadmap/roadmap-transactions.png
 alt: "Ethereum roadmap"
 template: roadmap
 ---
@@ -45,3 +45,5 @@ This second step is known as [“Danksharding”](/roadmap/danksharding/). It is
 ## Current progress {#current-progress}
 
 Proto-Danksharding is likely to be one of the earlier roadmap items to be implemented. The decentralized computation steps required to set it up are already underway and several clients have implemented prototypes for handling blob data. Full Danksharding is likely several years away, as it relies upon several other roadmap items being completed first. Decentralizing rollup infrastructure is likely to be a gradual process - there are many different rollups that are building slightly different systems and will fully decentralize at different rates.
+
+<QuizWidget quizKey="scaling" />
